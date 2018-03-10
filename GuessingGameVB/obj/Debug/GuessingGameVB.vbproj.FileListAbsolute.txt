@@ -1,0 +1,11 @@
+c:\users\downstairs computer\source\repos\GuessingGame\GuessingGameVB\bin\Debug\GuessingGameVB.exe.config
+c:\users\downstairs computer\source\repos\GuessingGame\GuessingGameVB\bin\Debug\GuessingGameVB.exe
+c:\users\downstairs computer\source\repos\GuessingGame\GuessingGameVB\bin\Debug\GuessingGameVB.pdb
+c:\users\downstairs computer\source\repos\GuessingGame\GuessingGameVB\bin\Debug\GuessingGameVB.xml
+c:\users\downstairs computer\source\repos\GuessingGame\GuessingGameVB\obj\Debug\GuessingGameVB.Resources.resources
+c:\users\downstairs computer\source\repos\GuessingGame\GuessingGameVB\obj\Debug\GuessingGameVB.vbproj.GenerateResource.cache
+c:\users\downstairs computer\source\repos\GuessingGame\GuessingGameVB\obj\Debug\GuessingGameVB.vbproj.CoreCompileInputs.cache
+c:\users\downstairs computer\source\repos\GuessingGame\GuessingGameVB\obj\Debug\GuessingGameVB.exe
+c:\users\downstairs computer\source\repos\GuessingGame\GuessingGameVB\obj\Debug\GuessingGameVB.xml
+c:\users\downstairs computer\source\repos\GuessingGame\GuessingGameVB\obj\Debug\GuessingGameVB.pdb
+c:\users\downstairs computer\source\repos\GuessingGame\GuessingGameVB\obj\Debug\GuessingGameVB.vbprojResolveAssemblyReference.cache

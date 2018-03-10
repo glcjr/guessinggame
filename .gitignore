@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/GuessingGame/v15
+/.vs
+/GuessingGame/obj
+/GuessingGamePAS/__history
