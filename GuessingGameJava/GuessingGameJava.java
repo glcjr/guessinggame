@@ -50,7 +50,7 @@ static int getguess()
             }
             else
             {
-                System.out.println("That's it! You got my numebr");
+                System.out.println("That's it! You got my number");
                 return true;
             }
         }

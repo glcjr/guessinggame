@@ -53,7 +53,7 @@ namespace GuessingGame
             }
             else
             {
-                Console.WriteLine("That's it! You got my numebr");
+                Console.WriteLine("That's it! You got my number");
                 return true;
             }
         }

@@ -45,7 +45,7 @@ Module Module1
             Console.WriteLine("That guess is too low. Try Again")
             Return False
         Else
-            Console.WriteLine("That's it! You got my numebr")
+            Console.WriteLine("That's it! You got my number")
             Return True
         End If
     End Function
